@@ -4,6 +4,8 @@ Example code PMSx003 for arduino , espino , espino32
 *** These Example codes can't use with PMS5003ST model ***
 
 You have to install PMS library >> https://github.com/fu-hsi/PMS
+or Download inLibrary manager on Arduino IDE
+![image](https://user-images.githubusercontent.com/8803501/74524662-1404e880-4f52-11ea-9a4b-78894a53a82b.png)
 
 How to Install a Library >> https://www.arduino.cc/en/guide/libraries
 
