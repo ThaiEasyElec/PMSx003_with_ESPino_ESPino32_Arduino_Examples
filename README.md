@@ -7,6 +7,8 @@ You have to install PMS library >> https://github.com/fu-hsi/PMS
 
 How to Install a Library >> https://www.arduino.cc/en/guide/libraries
 
+***Don't forget to change Baudrate on Serial monitor follow example codes***
+
 How to connect PMS module with Arduino via SoftwareSerial
 ![image](https://user-images.githubusercontent.com/8803501/74515357-ff6c2480-4f40-11ea-8fa9-f88dfe9bcbc8.png)
 
