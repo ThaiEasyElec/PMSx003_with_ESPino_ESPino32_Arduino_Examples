@@ -18,7 +18,7 @@ PMS pms(PMS_Serial);
 
 void setup()
 {
-  PMS_Serial.begin(PMS::BAUD_RATE); 
+  PMS_Serial.begin(9600); 
   DEBUG_OUT.begin(9600);
 
   // Switch to passive mode.
