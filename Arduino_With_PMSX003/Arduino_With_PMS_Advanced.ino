@@ -9,7 +9,8 @@ PMS::DATA data;
 
 void setup()
 {
-  Serial.begin(9600);   
+  Serial.begin(9600);
+  PMS_Serial.begin(9600);
   pms.passiveMode();    // Switch to passive mode
 }
 
