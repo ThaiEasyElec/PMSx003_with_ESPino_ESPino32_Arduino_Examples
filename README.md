@@ -1,6 +1,7 @@
 
 Example code PMSx003 for arduino , espino , espino32
-*** This Example codes can't use with PMS5003ST model ***
+
+*** These Example codes can't use with PMS5003ST model ***
 
 You have to install PMS library >> https://github.com/fu-hsi/PMS
 
