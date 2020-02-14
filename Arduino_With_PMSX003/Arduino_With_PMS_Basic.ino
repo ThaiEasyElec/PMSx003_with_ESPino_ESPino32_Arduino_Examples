@@ -10,7 +10,7 @@ PMS::DATA data;
 void setup()
 {
   Serial.begin(9600);
-  
+  PMS_Serial.begin(9600);
 }
 
 void loop()
