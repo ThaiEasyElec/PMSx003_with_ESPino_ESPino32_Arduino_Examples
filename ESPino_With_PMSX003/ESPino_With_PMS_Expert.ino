@@ -19,7 +19,7 @@ PMS pms(PMS_Serial);
 void setup()
 {
   PMS_Serial.begin(9600); 
-  DEBUG_OUT.begin(9600);
+  DEBUG_OUT.begin(115200);
 
   // Switch to passive mode.
   pms.passiveMode();
