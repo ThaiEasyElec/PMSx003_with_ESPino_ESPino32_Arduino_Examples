@@ -1,7 +1,7 @@
 #include "PMS.h"
 #include <SoftwareSerial.h>
 
-static const int RXPin = 0, TXPin = 2;
+static const int RXPin = 2, TXPin = 15;
 SoftwareSerial PMS_Serial(RXPin, TXPin);
 
 PMS pms(PMS_Serial);
