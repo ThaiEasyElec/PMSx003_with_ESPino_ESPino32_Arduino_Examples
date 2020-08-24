@@ -16,7 +16,7 @@ How to connect PMS module with Arduino via SoftwareSerial
 
 
 How to connect PMS module with ESPino via SoftwareSerial
-![image](https://user-images.githubusercontent.com/8803501/74515426-1f034d00-4f41-11ea-8679-b245ad96600a.png)
+![image](https://user-images.githubusercontent.com/8803501/90999091-da432780-e5ef-11ea-85cc-e68b12158c9e.png)
 
 How to connect PMS module with ESPino32 via HardwareSerial
 ![image](https://user-images.githubusercontent.com/8803501/74515527-51ad4580-4f41-11ea-8885-f0becf5a9fe7.png)
