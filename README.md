@@ -3,10 +3,16 @@ Example code PMSx003 for arduino , espino , espino32
 
 *** These Example codes can't use with PMS5003ST model ***
 
+*Step 1*
 You have to install PMS library >> https://github.com/fu-hsi/PMS
 or Download via Library manager on Arduino IDE
 ![image](https://user-images.githubusercontent.com/8803501/74524662-1404e880-4f52-11ea-9a4b-78894a53a82b.png)
 
+*Step 2* 
+Download Or Copy PMSx003_with_ESPino_ESPino32_Arduino_Examples to Arduino IDE
+https://github.com/ThaiEasyElec/PMSx003_with_ESPino_ESPino32_Arduino_Examples
+
+*Step 3* 
 How to Install a Library >> https://www.arduino.cc/en/guide/libraries
 
 ***Don't forget to change Baudrate on Serial monitor follow example codes***
